@@ -1,12 +1,70 @@
-# React + Vite
+# 💼 Prakash S - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio built using **React** and **Vite**, showcasing my projects, internships, and skills.
 
-Currently, two official plugins are available:
+## 📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ Built with React + Vite
+- 🎨 Styled using Styled-Components
+- 🌐 Responsive Design
+- 🧠 SEO Optimized with react-helmet
+- 🧑‍💻 Internships & Projects Section
+- 🖱️ Smooth Navigation
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+| Category       | Tech                      |
+| -------------- | ------------------------- |
+| Frontend       | React, Vite               |
+| Styling        | styled-components, CSS    |
+| Routing        | React Router DOM          |
+| Icons          | FontAwesome               |
+| SEO            | react-helmet              |
+| Analytics      | Google Analytics v4       |
+
+---
+
+## 📚 Sections
+
+- **Home** – Introduction & quick links to projects and work
+- **About** – Education, developer background & resume
+- **Projects** – Real-world apps including Blockchain Voting System, Admin Dashboard, etc.
+- **Contact** – Email form for getting in touch
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repo
+
+   ```bash
+   git clone https://github.com/SPrakashpk/my-portfolio
+   cd my-portfolio
+2. Install dependencies
+npm install
+3. Start the dev server
+npm run dev
+
+👨‍💻 About Me
+I’m Prakash S, a Full Stack Developer from Tamil Nadu. I build clean, responsive web applications and aim to contribute to open-source and innovative real-world products.
+
+🎓 B.E CSE (Arunai Engineering College, 2025)
+
+💡 Passionate about Web Development & Blockchain
+
+🔗 LinkedIn
+
+💻 GitHub
+
+📄 License
+This project is licensed under the MIT License.
+
+Let me know if you'd like to:
+
+- Add badges (build status, license, etc.)
+- Auto-deploy to GitHub Pages / Vercel / Netlify
+- Include resume download link in README
+
+I'll help you polish it further!
